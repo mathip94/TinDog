@@ -1,2 +1,1 @@
-# TinDog
-TinderMockup(for dogs)
+TinDog Starting Files
